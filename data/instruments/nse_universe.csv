@@ -1,0 +1,8 @@
+trading_symbol,company_name,exchange,instrument_token,sector,instrument_type,universe
+RELIANCE,Reliance Industries Limited,NSE,,Energy,EQ,NIFTY50|NIFTY100|NIFTY200|NIFTY500
+HDFCBANK,HDFC Bank Limited,NSE,,Financial Services,EQ,NIFTY50|NIFTY100|NIFTY200|NIFTY500
+INFY,Infosys Limited,NSE,,Information Technology,EQ,NIFTY50|NIFTY100|NIFTY200|NIFTY500
+TCS,Tata Consultancy Services Limited,NSE,,Information Technology,EQ,NIFTY50|NIFTY100|NIFTY200|NIFTY500
+ICICIBANK,ICICI Bank Limited,NSE,,Financial Services,EQ,NIFTY50|NIFTY100|NIFTY200|NIFTY500
+SBIN,State Bank of India,NSE,,Financial Services,EQ,NIFTY50|NIFTY100|NIFTY200|NIFTY500
+TATAMOTORS,Tata Motors Limited,NSE,,Automobile,EQ,NIFTY50|NIFTY100|NIFTY200|NIFTY500

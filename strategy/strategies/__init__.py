@@ -1,0 +1,1 @@
+from strategy.strategies.ema_crossover import EMACrossoverStrategy
